@@ -1,0 +1,10 @@
+On terminal:
+
+pip install django
+
+Go to the folder I want, e.g.:
+mkdir DjangoProject
+cd DjangoProject
+
+To create the project:
+django-admin startproject Django-project
